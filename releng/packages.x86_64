@@ -124,6 +124,6 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
-bootc-git-composefs
+bootc-git
 bootupd-git
 ostree
