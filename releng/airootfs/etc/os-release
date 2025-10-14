@@ -1,0 +1,11 @@
+NAME="Networkable Containers"
+PRETTY_NAME="Networkable Containers"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/Micro856/NetC"
+DOCUMENTATION_URL=""
+SUPPORT_URL=""
+BUG_REPORT_URL=""
+PRIVACY_POLICY_URL=""
+LOGO=archlinux-logo
